@@ -1,0 +1,35 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    background-color: blueviolet;
+    color: #ff00aa;
+}
+
+.menu {
+    list-style: none;
+}
+
+li {
+    color:#004444;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    padding: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    background-color: blue;
+    color: fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    background-color: #a2ffff;
+    color:blue
+}
